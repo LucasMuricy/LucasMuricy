@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 Procurando uma oportunidade.
 - 🏆 Estudando Java e Python
