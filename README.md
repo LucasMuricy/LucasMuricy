@@ -6,7 +6,7 @@
 
 - 🔭 Procurando uma oportunidade.
 - 🏆 Estudando Java e Python
-- 🎮 Frond end = \_|o_O|_/
+- 🎮 Frond end && Back end = \_|o_O|_/
 
 
 
