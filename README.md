@@ -1,9 +1,6 @@
 ### Olá Prazer Lucas Muricy
 
 
-
-
-
 - 🔭 Procurando uma oportunidade.
 - 📞whatsapp: (11) 95164-7972
 -  📫e-mail: k.lukinha10@gmail.com
@@ -11,35 +8,23 @@
 
 Sobre Mi:
 
-Sou de São Pulo e  amo Programação.
+Sou de São Paulo e  amo Programação.
 Sou uma pessoa otimista que gosta de descobrir coisas novas. Tenho um olhar analítico e acredito que a proatividade e a colaboração potencializam o que há de melhor em cada um. 
 
 Minha Habilidades.
 
 Back-end :
-• Java 17
-• API's REST
-• Swing
+• Java
+• API's 
 • Spring Boot 
 • Fundamentos em testes unitários
-• Lambdas
+
 
  Front-end :
 • HTML5
 • CSS3
 • JavaScript
 • TypeScript
-
-Experiência Profissional.
-
-° 1 ano na área de compras. 
-° 2 anos na área de captação de clientes. 
-° 1 ano e meio em Analista de Planejamento e Orçamento.
-° 2 anos em Consultor de Vendas. 
-
-Atualmente além da graduação estou fazendo um Curso da Udemy de Javacript e estudando para tirar as certificações da Oracle de Java: 1ZO-811 e Database: 1ZO-006 
-
-
 
 <div align="center">
   <a href="https://github.com/LucasMuricy">
