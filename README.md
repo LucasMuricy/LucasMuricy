@@ -3,7 +3,7 @@
 
 - 🔭 Procurando uma oportunidade.
 - 📞whatsapp: (11) 95164-7972
--  📫e-mail: k.lukinha10@gmail.com
+-  📫e-mail: lucasmuricy.dev@gmail.com
 - 🎮 Frond end && Back end = \_|o_O|_/
 
 Sobre Mi:
@@ -24,7 +24,7 @@ Back-end :
 • HTML5
 • CSS3
 • JavaScript
-• TypeScript
+
 
 <div align="center">
   <a href="https://github.com/LucasMuricy">
