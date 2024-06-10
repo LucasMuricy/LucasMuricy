@@ -14,6 +14,7 @@ Sou uma pessoa otimista que gosta de descobrir coisas novas. Tenho um olhar anal
 Minha Habilidades.
 
 Back-end :
+
 • Java
 * Kotlin
 • API's 
@@ -22,6 +23,7 @@ Back-end :
 
 
  Front-end :
+ 
 • HTML5
 • CSS3
 • JavaScript
