@@ -15,6 +15,7 @@ Minha Habilidades.
 
 Back-end :
 • Java
+* Kotlin
 • API's 
 • Spring Boot 
 • Fundamentos em testes unitários
